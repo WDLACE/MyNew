@@ -1,2 +1,3 @@
 hello, hai ai wo me ?
-yes
+yes~
+no
